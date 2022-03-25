@@ -1,6 +1,6 @@
 ## Erik Engervall
 
-Software engineer with a master's in computer science. Experienced within web development. Previously consultant within FinTech, employee at Spotify and hobby hacker for open source projects.
+I'm Erik, known as Noaa in some gamer circles. Used to play a lot of WoW, nowadays I write code for the webs.
 
 ### Professional links
 
