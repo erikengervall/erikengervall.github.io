@@ -4,7 +4,7 @@ Software engineer with a master's in computer sciene. Previously consultant at N
 
 Complete history available 
 
-### Links
+### Social Links
 
 [![Facebook](/assets/logo-facebook.png)](https://www.facebook.com/Erik.Engervall)
 [![Instagram](/assets/logo-instagram.png)](https://www.instagram.com/engervall)
