@@ -7,9 +7,7 @@
 ### Links
 
 [![Facebook](/assets/logo-facebook.png)](https://www.facebook.com/Erik.Engervall)
-
-* [Linkedin](https://www.linkedin.com/in/engervall)
-* [GitHub](https://github.com/erikengervall)
-* [Twitter](https://twitter.com/engervall)
-* [Instagram](https://www.instagram.com/engervall)
-* 
+[![Instagram](/assets/logo-instagram.png)](https://www.instagram.com/engervall)
+[![Linkedin](/assets/logo-linkedin.png)](https://www.linkedin.com/in/engervall)
+[![GitHub](/assets/logo-github.png)](https://github.com/erikengervall)
+[![Twitter](/assets/logo-twitter.png)](https://twitter.com/engervall)
