@@ -1,8 +1,6 @@
 ## Erik Engervall
 
-Software engineer with a master's in computer science. Previously consultant at Netlight working primarily within FinTech, Spotify working with TV and console gaming platforms.
-
-Complete history available on LinkedIn, along with side businesses and open source projects.
+Software engineer with a master's in computer science. Experienced within web development. Previously consultant within FinTech, employee at Spotify and hobby hacker for open source projects.
 
 ### Professional links
 
