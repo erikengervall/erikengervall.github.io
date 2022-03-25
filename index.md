@@ -15,7 +15,3 @@ Complete history available on LinkedIn, along with side businesses and open sour
 [![Twitter](/assets/logo-twitter.png)](https://twitter.com/engervall)
 [![Facebook](/assets/logo-facebook.png)](https://www.facebook.com/Erik.Engervall)
 [![Instagram](/assets/logo-instagram.png)](https://www.instagram.com/engervall)
-
-### Pages
-
-* [Noaa AB](/noaa-ab) software consultancy
