@@ -1,8 +1,8 @@
 ## Erik Engervall
 
-### Pages
+Software engineer with a master's in computer sciene. Previously consultant at Netlight working primarily within FinTech, Spotify working with TV and console gaming platforms.
 
-* [Noaa AB](/noaa-ab)
+Complete history available 
 
 ### Links
 
@@ -11,3 +11,8 @@
 [![Linkedin](/assets/logo-linkedin.png)](https://www.linkedin.com/in/engervall)
 [![GitHub](/assets/logo-github.png)](https://github.com/erikengervall)
 [![Twitter](/assets/logo-twitter.png)](https://twitter.com/engervall)
+[![YouTube](/assets/logo-youtube.png)](https://www.youtube.com/c/ErikEngervall)
+
+### Pages
+
+* [Noaa AB](/noaa-ab) software consultancy
