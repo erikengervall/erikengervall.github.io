@@ -4,23 +4,15 @@ I'm Erik, known as Noaa in some gamer circles. Used to play a lot of WoW, nowada
 
 ## Links
 
-Feel free to add me to LinkedIn
+Feel free to add me to <a href="https://www.linkedin.com/in/engervall">LinkedIn <img src="/assets/logo-linkedin.png" alt="LinkedIn logo" width="22"/></a>, 
 
-<a href="https://www.linkedin.com/in/engervall"><img src="/assets/logo-linkedin.png" alt="drawing" width="50"/></a>
+check out my open source stuff at <a href="https://github.com/erikengervall">GitHub <img src="/assets/logo-github.png" alt="GitHub logo" width="22"/></a>,
 
-[![LinkedIn](/assets/logo-linkedin.png)](https://www.linkedin.com/in/engervall)
+watch some gaming and programming content over at <a href="https://youtube.com/c/erikengervall">YouTube <img src="/assets/logo-youtube.png" alt="YouTube logo" width="22"/></a>,
 
-Check out my open source stuff at GitHub
+read my biyearly <a href="https://twitter.com/engervall">tweet <img src="/assets/logo-twitter.png" alt="Twitter logo" width="22"/></a> or 
 
-[![GitHub](/assets/logo-github.png)](https://github.com/erikengervall)
-
-Watch some gaming and programming content over at YouTube
-
-[![YouTube](/assets/logo-youtube.png)](https://www.youtube.com/c/erikengervall)
-
-Read my biyearly tweet
-
-[![Twitter](/assets/logo-twitter.png)](https://twitter.com/engervall)
+read my <a href="https://dev.to/erikengervall">DEV <img src="/assets/logo-devto.png" alt="DEV logo" width="22"/></a> and <a href="https://medium.com/@erik.engervall">Medium <img src="/assets/logo-medium.png" alt="Medium logo" width="22"/></a> articles
 
 <!-- [![Instagram](/assets/logo-instagram.png)](https://www.instagram.com/engervall) -->
 <!-- [![Facebook](/assets/logo-facebook.png)](https://www.facebook.com/Erik.Engervall) -->
