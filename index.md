@@ -1,10 +1,14 @@
 # Erik Engervall
 
-I'm Erik, known as Noaa in some gamer circles. Used to play a lot of WoW, nowadays I write code for the webs.
+Heya 👋🏼
+
+I'm Erik, I write code for the webs.
 
 ## Links
 
-Feel free to add me to <a href="https://www.linkedin.com/in/engervall">LinkedIn <img src="/assets/logo-linkedin.png" alt="LinkedIn logo" width="22"/></a>, 
+Feel free to add me on <a href="https://www.linkedin.com/in/engervall">LinkedIn <img src="/assets/logo-linkedin.png" alt="LinkedIn logo" width="22"/></a>,
+
+send me an <a href="mailto:erik.engervall@gmail.com">email ✉️</a>,
 
 check out my open source stuff at <a href="https://github.com/erikengervall">GitHub <img src="/assets/logo-github.png" alt="GitHub logo" width="22"/></a>,
 
