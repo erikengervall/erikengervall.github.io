@@ -1,3 +1,0 @@
-# Noaa AB
-
-Software consultancy
