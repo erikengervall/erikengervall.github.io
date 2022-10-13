@@ -39,3 +39,5 @@ too many titles after a while
 I was even a GM for a while helping out
 
 <img src="/assets/wow-9.jpg" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2GDY3_ipApg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
