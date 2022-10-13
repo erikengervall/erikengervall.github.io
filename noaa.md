@@ -26,10 +26,16 @@ and gladdy boi of course
 
 Held rank 1 in 2s & 3s for 3 consecutive seasons, here's some memories
 
-#### Ceremony
+Title ceremony pics from around April 2011
+
+<img src="/assets/wow-10.jpg" />
 
 <img src="/assets/wow-2.jpg" />
 
-#### Too many titles
+too many titles after a while
 
 <img src="/assets/wow-4.jpg" />
+
+I was even a GM for a while helping out
+
+<img src="/assets/wow-9.jpg" />
