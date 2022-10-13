@@ -18,6 +18,10 @@ Had lots of fun during WotLK, actually leveled my priest as an alt and managed t
 
 <img src="/assets/wow-7.jpg" />
 
+and gladdy boi of course
+
+<img src="/assets/wow-5.jpg" />
+
 ## Warmane WotLK
 
 Held rank 1 in 2s & 3s for 3 consecutive seasons, here's some memories
